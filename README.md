@@ -1,7 +1,7 @@
 # -IRWA-2021-final-project-part-4
 
 To execute the app, first of all we need to create a virtual environment.
-Once it is created, we need to install the following lybraries:
+Once it is created, we need to install the following libraries:
   - Flask
   - Faker
   - Nltk
