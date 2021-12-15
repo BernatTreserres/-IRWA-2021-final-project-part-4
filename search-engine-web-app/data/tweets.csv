@@ -1,0 +1,3544 @@
+tweet_id, ranking, query
+61,1,covid
+200,2,covid
+1561,3,covid
+61,1,covid vaccine
+200,2,covid vaccine
+1561,3,covid vaccine
+1110,4,covid vaccine
+904,5,covid vaccine
+510,6,covid vaccine
+509,7,covid vaccine
+2001,8,covid vaccine
+1968,9,covid vaccine
+164,10,covid vaccine
+1626,11,covid vaccine
+137,12,covid vaccine
+1332,13,covid vaccine
+1310,14,covid vaccine
+1166,15,covid vaccine
+973,16,covid vaccine
+967,17,covid vaccine
+915,18,covid vaccine
+884,19,covid vaccine
+858,20,covid vaccine
+850,21,covid vaccine
+841,22,covid vaccine
+836,23,covid vaccine
+752,24,covid vaccine
+749,25,covid vaccine
+742,26,covid vaccine
+727,27,covid vaccine
+679,28,covid vaccine
+614,29,covid vaccine
+579,30,covid vaccine
+531,31,covid vaccine
+514,32,covid vaccine
+511,33,covid vaccine
+501,34,covid vaccine
+486,35,covid vaccine
+406,36,covid vaccine
+396,37,covid vaccine
+284,38,covid vaccine
+283,39,covid vaccine
+279,40,covid vaccine
+276,41,covid vaccine
+272,42,covid vaccine
+2340,43,covid vaccine
+2253,44,covid vaccine
+2244,45,covid vaccine
+2243,46,covid vaccine
+2219,47,covid vaccine
+2193,48,covid vaccine
+2190,49,covid vaccine
+219,50,covid vaccine
+2187,51,covid vaccine
+2186,52,covid vaccine
+2153,53,covid vaccine
+215,54,covid vaccine
+213,55,covid vaccine
+2115,56,covid vaccine
+2112,57,covid vaccine
+209,58,covid vaccine
+206,59,covid vaccine
+205,60,covid vaccine
+2047,61,covid vaccine
+2044,62,covid vaccine
+2041,63,covid vaccine
+2040,64,covid vaccine
+2003,65,covid vaccine
+2002,66,covid vaccine
+1959,67,covid vaccine
+195,68,covid vaccine
+194,69,covid vaccine
+1930,70,covid vaccine
+1927,71,covid vaccine
+192,72,covid vaccine
+1895,73,covid vaccine
+1884,74,covid vaccine
+188,75,covid vaccine
+1865,76,covid vaccine
+1849,77,covid vaccine
+1846,78,covid vaccine
+1833,79,covid vaccine
+183,80,covid vaccine
+1774,81,covid vaccine
+166,82,covid vaccine
+1622,83,covid vaccine
+1620,84,covid vaccine
+1612,85,covid vaccine
+1565,86,covid vaccine
+1523,87,covid vaccine
+1517,88,covid vaccine
+1447,89,covid vaccine
+1401,90,covid vaccine
+1349,91,covid vaccine
+1348,92,covid vaccine
+1343,93,covid vaccine
+1342,94,covid vaccine
+1299,95,covid vaccine
+1254,96,covid vaccine
+1245,97,covid vaccine
+1239,98,covid vaccine
+1153,99,covid vaccine
+1108,100,covid vaccine
+1054,101,covid vaccine
+1053,102,covid vaccine
+1051,103,covid vaccine
+1046,104,covid vaccine
+972,105,covid vaccine
+966,106,covid vaccine
+964,107,covid vaccine
+935,108,covid vaccine
+927,109,covid vaccine
+902,110,covid vaccine
+901,111,covid vaccine
+875,112,covid vaccine
+863,113,covid vaccine
+862,114,covid vaccine
+861,115,covid vaccine
+859,116,covid vaccine
+857,117,covid vaccine
+856,118,covid vaccine
+855,119,covid vaccine
+854,120,covid vaccine
+853,121,covid vaccine
+846,122,covid vaccine
+845,123,covid vaccine
+842,124,covid vaccine
+838,125,covid vaccine
+837,126,covid vaccine
+833,127,covid vaccine
+831,128,covid vaccine
+792,129,covid vaccine
+783,130,covid vaccine
+766,131,covid vaccine
+760,132,covid vaccine
+759,133,covid vaccine
+758,134,covid vaccine
+755,135,covid vaccine
+754,136,covid vaccine
+747,137,covid vaccine
+744,138,covid vaccine
+743,139,covid vaccine
+741,140,covid vaccine
+738,141,covid vaccine
+730,142,covid vaccine
+729,143,covid vaccine
+728,144,covid vaccine
+721,145,covid vaccine
+719,146,covid vaccine
+718,147,covid vaccine
+716,148,covid vaccine
+715,149,covid vaccine
+713,150,covid vaccine
+702,151,covid vaccine
+7,152,covid vaccine
+678,153,covid vaccine
+668,154,covid vaccine
+652,155,covid vaccine
+641,156,covid vaccine
+635,157,covid vaccine
+621,158,covid vaccine
+620,159,covid vaccine
+615,160,covid vaccine
+6,161,covid vaccine
+583,162,covid vaccine
+580,163,covid vaccine
+578,164,covid vaccine
+564,165,covid vaccine
+551,166,covid vaccine
+550,167,covid vaccine
+549,168,covid vaccine
+544,169,covid vaccine
+534,170,covid vaccine
+533,171,covid vaccine
+520,172,covid vaccine
+518,173,covid vaccine
+516,174,covid vaccine
+515,175,covid vaccine
+506,176,covid vaccine
+505,177,covid vaccine
+503,178,covid vaccine
+500,179,covid vaccine
+497,180,covid vaccine
+490,181,covid vaccine
+484,182,covid vaccine
+475,183,covid vaccine
+325,184,covid vaccine
+321,185,covid vaccine
+310,186,covid vaccine
+300,187,covid vaccine
+3,188,covid vaccine
+285,189,covid vaccine
+269,190,covid vaccine
+266,191,covid vaccine
+264,192,covid vaccine
+261,193,covid vaccine
+251,194,covid vaccine
+244,195,covid vaccine
+2392,196,covid vaccine
+2391,197,covid vaccine
+2386,198,covid vaccine
+2384,199,covid vaccine
+2377,200,covid vaccine
+2358,201,covid vaccine
+2351,202,covid vaccine
+2349,203,covid vaccine
+2347,204,covid vaccine
+2338,205,covid vaccine
+2337,206,covid vaccine
+2277,207,covid vaccine
+2257,208,covid vaccine
+2256,209,covid vaccine
+2254,210,covid vaccine
+2252,211,covid vaccine
+2250,212,covid vaccine
+2246,213,covid vaccine
+2242,214,covid vaccine
+2241,215,covid vaccine
+222,216,covid vaccine
+2212,217,covid vaccine
+221,218,covid vaccine
+2204,219,covid vaccine
+2202,220,covid vaccine
+22,221,covid vaccine
+2198,222,covid vaccine
+2196,223,covid vaccine
+2195,224,covid vaccine
+2194,225,covid vaccine
+2192,226,covid vaccine
+2189,227,covid vaccine
+2188,228,covid vaccine
+2164,229,covid vaccine
+216,230,covid vaccine
+2143,231,covid vaccine
+2124,232,covid vaccine
+2120,233,covid vaccine
+2119,234,covid vaccine
+2117,235,covid vaccine
+2116,236,covid vaccine
+211,237,covid vaccine
+2093,238,covid vaccine
+2087,239,covid vaccine
+2086,240,covid vaccine
+2080,241,covid vaccine
+208,242,covid vaccine
+2077,243,covid vaccine
+2072,244,covid vaccine
+207,245,covid vaccine
+2058,246,covid vaccine
+2055,247,covid vaccine
+2052,248,covid vaccine
+2049,249,covid vaccine
+2043,250,covid vaccine
+2042,251,covid vaccine
+2038,252,covid vaccine
+2036,253,covid vaccine
+2035,254,covid vaccine
+203,255,covid vaccine
+202,256,covid vaccine
+2017,257,covid vaccine
+2011,258,covid vaccine
+2010,259,covid vaccine
+201,260,covid vaccine
+2009,261,covid vaccine
+2008,262,covid vaccine
+2007,263,covid vaccine
+2006,264,covid vaccine
+2005,265,covid vaccine
+2004,266,covid vaccine
+1998,267,covid vaccine
+1996,268,covid vaccine
+1989,269,covid vaccine
+1983,270,covid vaccine
+197,271,covid vaccine
+1966,272,covid vaccine
+1964,273,covid vaccine
+1961,274,covid vaccine
+196,275,covid vaccine
+1952,276,covid vaccine
+1950,277,covid vaccine
+1947,278,covid vaccine
+1944,279,covid vaccine
+193,280,covid vaccine
+1928,281,covid vaccine
+1926,282,covid vaccine
+1924,283,covid vaccine
+1921,284,covid vaccine
+191,285,covid vaccine
+1904,286,covid vaccine
+190,287,covid vaccine
+1897,288,covid vaccine
+1896,289,covid vaccine
+1882,290,covid vaccine
+1879,291,covid vaccine
+1868,292,covid vaccine
+1863,293,covid vaccine
+1862,294,covid vaccine
+1860,295,covid vaccine
+186,296,covid vaccine
+1859,297,covid vaccine
+1855,298,covid vaccine
+185,299,covid vaccine
+1847,300,covid vaccine
+1843,301,covid vaccine
+1834,302,covid vaccine
+1828,303,covid vaccine
+182,304,covid vaccine
+1812,305,covid vaccine
+181,306,covid vaccine
+180,307,covid vaccine
+1795,308,covid vaccine
+179,309,covid vaccine
+1787,310,covid vaccine
+178,311,covid vaccine
+1777,312,covid vaccine
+1776,313,covid vaccine
+1775,314,covid vaccine
+1773,315,covid vaccine
+177,316,covid vaccine
+176,317,covid vaccine
+1735,318,covid vaccine
+1730,319,covid vaccine
+1718,320,covid vaccine
+1717,321,covid vaccine
+1709,322,covid vaccine
+168,323,covid vaccine
+167,324,covid vaccine
+1661,325,covid vaccine
+165,326,covid vaccine
+1630,327,covid vaccine
+163,328,covid vaccine
+1629,329,covid vaccine
+1627,330,covid vaccine
+1617,331,covid vaccine
+1615,332,covid vaccine
+1614,333,covid vaccine
+1613,334,covid vaccine
+1610,335,covid vaccine
+1606,336,covid vaccine
+1605,337,covid vaccine
+1604,338,covid vaccine
+1603,339,covid vaccine
+1602,340,covid vaccine
+160,341,covid vaccine
+1595,342,covid vaccine
+1571,343,covid vaccine
+1567,344,covid vaccine
+1562,345,covid vaccine
+1532,346,covid vaccine
+1514,347,covid vaccine
+1513,348,covid vaccine
+1511,349,covid vaccine
+1510,350,covid vaccine
+1509,351,covid vaccine
+1507,352,covid vaccine
+1502,353,covid vaccine
+1501,354,covid vaccine
+1499,355,covid vaccine
+1491,356,covid vaccine
+1479,357,covid vaccine
+1478,358,covid vaccine
+1477,359,covid vaccine
+1475,360,covid vaccine
+1472,361,covid vaccine
+1469,362,covid vaccine
+1467,363,covid vaccine
+1466,364,covid vaccine
+1460,365,covid vaccine
+1452,366,covid vaccine
+1451,367,covid vaccine
+1421,368,covid vaccine
+142,369,covid vaccine
+1414,370,covid vaccine
+1413,371,covid vaccine
+1412,372,covid vaccine
+1411,373,covid vaccine
+1407,374,covid vaccine
+1400,375,covid vaccine
+140,376,covid vaccine
+1390,377,covid vaccine
+1370,378,covid vaccine
+1347,379,covid vaccine
+1344,380,covid vaccine
+1326,381,covid vaccine
+1324,382,covid vaccine
+1323,383,covid vaccine
+1322,384,covid vaccine
+1313,385,covid vaccine
+1309,386,covid vaccine
+1303,387,covid vaccine
+1296,388,covid vaccine
+1290,389,covid vaccine
+1289,390,covid vaccine
+1288,391,covid vaccine
+1281,392,covid vaccine
+1276,393,covid vaccine
+1252,394,covid vaccine
+1251,395,covid vaccine
+1250,396,covid vaccine
+1248,397,covid vaccine
+1246,398,covid vaccine
+1244,399,covid vaccine
+1238,400,covid vaccine
+1235,401,covid vaccine
+1233,402,covid vaccine
+1188,403,covid vaccine
+1185,404,covid vaccine
+1173,405,covid vaccine
+1155,406,covid vaccine
+1154,407,covid vaccine
+1152,408,covid vaccine
+1151,409,covid vaccine
+1147,410,covid vaccine
+1146,411,covid vaccine
+1145,412,covid vaccine
+1144,413,covid vaccine
+1143,414,covid vaccine
+1142,415,covid vaccine
+1132,416,covid vaccine
+1122,417,covid vaccine
+1120,418,covid vaccine
+1113,419,covid vaccine
+1112,420,covid vaccine
+1111,421,covid vaccine
+1083,422,covid vaccine
+1052,423,covid vaccine
+1047,424,covid vaccine
+1045,425,covid vaccine
+1043,426,covid vaccine
+1031,427,covid vaccine
+61,1,covid vaccine children
+200,2,covid vaccine children
+1561,3,covid vaccine children
+2006,4,covid vaccine children
+882,5,covid vaccine children
+254,6,covid vaccine children
+1878,7,covid vaccine children
+1870,8,covid vaccine children
+2001,9,covid vaccine children
+406,10,covid vaccine children
+215,11,covid vaccine children
+206,12,covid vaccine children
+564,13,covid vaccine children
+550,14,covid vaccine children
+544,15,covid vaccine children
+2009,16,covid vaccine children
+2005,17,covid vaccine children
+2004,18,covid vaccine children
+1775,19,covid vaccine children
+1185,20,covid vaccine children
+1132,21,covid vaccine children
+895,22,covid vaccine children
+796,23,covid vaccine children
+774,24,covid vaccine children
+654,25,covid vaccine children
+637,26,covid vaccine children
+591,27,covid vaccine children
+538,28,covid vaccine children
+526,29,covid vaccine children
+495,30,covid vaccine children
+488,31,covid vaccine children
+487,32,covid vaccine children
+48,33,covid vaccine children
+468,34,covid vaccine children
+463,35,covid vaccine children
+41,36,covid vaccine children
+340,37,covid vaccine children
+334,38,covid vaccine children
+274,39,covid vaccine children
+247,40,covid vaccine children
+246,41,covid vaccine children
+2354,42,covid vaccine children
+220,43,covid vaccine children
+217,44,covid vaccine children
+214,45,covid vaccine children
+212,46,covid vaccine children
+2100,47,covid vaccine children
+2099,48,covid vaccine children
+2098,49,covid vaccine children
+2095,50,covid vaccine children
+2028,51,covid vaccine children
+1875,52,covid vaccine children
+1811,53,covid vaccine children
+1781,54,covid vaccine children
+1747,55,covid vaccine children
+1746,56,covid vaccine children
+1726,57,covid vaccine children
+1719,58,covid vaccine children
+1591,59,covid vaccine children
+1569,60,covid vaccine children
+1533,61,covid vaccine children
+1527,62,covid vaccine children
+1368,63,covid vaccine children
+1338,64,covid vaccine children
+1302,65,covid vaccine children
+120,66,covid vaccine children
+1172,67,covid vaccine children
+1110,68,covid vaccine children
+904,69,covid vaccine children
+510,70,covid vaccine children
+509,71,covid vaccine children
+1968,72,covid vaccine children
+164,73,covid vaccine children
+1626,74,covid vaccine children
+137,75,covid vaccine children
+1332,76,covid vaccine children
+1310,77,covid vaccine children
+1166,78,covid vaccine children
+973,79,covid vaccine children
+967,80,covid vaccine children
+915,81,covid vaccine children
+884,82,covid vaccine children
+858,83,covid vaccine children
+850,84,covid vaccine children
+841,85,covid vaccine children
+836,86,covid vaccine children
+752,87,covid vaccine children
+749,88,covid vaccine children
+742,89,covid vaccine children
+727,90,covid vaccine children
+679,91,covid vaccine children
+614,92,covid vaccine children
+579,93,covid vaccine children
+531,94,covid vaccine children
+514,95,covid vaccine children
+511,96,covid vaccine children
+501,97,covid vaccine children
+486,98,covid vaccine children
+396,99,covid vaccine children
+284,100,covid vaccine children
+283,101,covid vaccine children
+279,102,covid vaccine children
+276,103,covid vaccine children
+272,104,covid vaccine children
+2340,105,covid vaccine children
+2253,106,covid vaccine children
+2244,107,covid vaccine children
+2243,108,covid vaccine children
+2219,109,covid vaccine children
+2193,110,covid vaccine children
+2190,111,covid vaccine children
+219,112,covid vaccine children
+2187,113,covid vaccine children
+2186,114,covid vaccine children
+2153,115,covid vaccine children
+213,116,covid vaccine children
+2115,117,covid vaccine children
+2112,118,covid vaccine children
+209,119,covid vaccine children
+205,120,covid vaccine children
+2047,121,covid vaccine children
+2044,122,covid vaccine children
+2041,123,covid vaccine children
+2040,124,covid vaccine children
+2003,125,covid vaccine children
+2002,126,covid vaccine children
+1959,127,covid vaccine children
+195,128,covid vaccine children
+194,129,covid vaccine children
+1930,130,covid vaccine children
+1927,131,covid vaccine children
+192,132,covid vaccine children
+1895,133,covid vaccine children
+1884,134,covid vaccine children
+188,135,covid vaccine children
+1865,136,covid vaccine children
+1849,137,covid vaccine children
+1846,138,covid vaccine children
+1833,139,covid vaccine children
+183,140,covid vaccine children
+1774,141,covid vaccine children
+166,142,covid vaccine children
+1622,143,covid vaccine children
+1620,144,covid vaccine children
+1612,145,covid vaccine children
+1565,146,covid vaccine children
+1523,147,covid vaccine children
+1517,148,covid vaccine children
+1447,149,covid vaccine children
+1401,150,covid vaccine children
+1349,151,covid vaccine children
+1348,152,covid vaccine children
+1343,153,covid vaccine children
+1342,154,covid vaccine children
+1299,155,covid vaccine children
+1254,156,covid vaccine children
+1245,157,covid vaccine children
+1239,158,covid vaccine children
+1153,159,covid vaccine children
+1108,160,covid vaccine children
+1054,161,covid vaccine children
+1053,162,covid vaccine children
+1051,163,covid vaccine children
+1046,164,covid vaccine children
+972,165,covid vaccine children
+966,166,covid vaccine children
+964,167,covid vaccine children
+935,168,covid vaccine children
+927,169,covid vaccine children
+902,170,covid vaccine children
+901,171,covid vaccine children
+875,172,covid vaccine children
+863,173,covid vaccine children
+862,174,covid vaccine children
+861,175,covid vaccine children
+859,176,covid vaccine children
+857,177,covid vaccine children
+856,178,covid vaccine children
+855,179,covid vaccine children
+854,180,covid vaccine children
+853,181,covid vaccine children
+846,182,covid vaccine children
+845,183,covid vaccine children
+842,184,covid vaccine children
+838,185,covid vaccine children
+837,186,covid vaccine children
+833,187,covid vaccine children
+831,188,covid vaccine children
+792,189,covid vaccine children
+783,190,covid vaccine children
+766,191,covid vaccine children
+760,192,covid vaccine children
+759,193,covid vaccine children
+758,194,covid vaccine children
+755,195,covid vaccine children
+754,196,covid vaccine children
+747,197,covid vaccine children
+744,198,covid vaccine children
+743,199,covid vaccine children
+741,200,covid vaccine children
+738,201,covid vaccine children
+730,202,covid vaccine children
+729,203,covid vaccine children
+728,204,covid vaccine children
+721,205,covid vaccine children
+719,206,covid vaccine children
+718,207,covid vaccine children
+716,208,covid vaccine children
+715,209,covid vaccine children
+713,210,covid vaccine children
+702,211,covid vaccine children
+7,212,covid vaccine children
+678,213,covid vaccine children
+668,214,covid vaccine children
+652,215,covid vaccine children
+641,216,covid vaccine children
+635,217,covid vaccine children
+621,218,covid vaccine children
+620,219,covid vaccine children
+615,220,covid vaccine children
+6,221,covid vaccine children
+583,222,covid vaccine children
+580,223,covid vaccine children
+578,224,covid vaccine children
+551,225,covid vaccine children
+549,226,covid vaccine children
+534,227,covid vaccine children
+533,228,covid vaccine children
+520,229,covid vaccine children
+518,230,covid vaccine children
+516,231,covid vaccine children
+515,232,covid vaccine children
+506,233,covid vaccine children
+505,234,covid vaccine children
+503,235,covid vaccine children
+500,236,covid vaccine children
+497,237,covid vaccine children
+490,238,covid vaccine children
+484,239,covid vaccine children
+475,240,covid vaccine children
+325,241,covid vaccine children
+321,242,covid vaccine children
+310,243,covid vaccine children
+300,244,covid vaccine children
+3,245,covid vaccine children
+285,246,covid vaccine children
+269,247,covid vaccine children
+266,248,covid vaccine children
+264,249,covid vaccine children
+261,250,covid vaccine children
+251,251,covid vaccine children
+244,252,covid vaccine children
+2392,253,covid vaccine children
+2391,254,covid vaccine children
+2386,255,covid vaccine children
+2384,256,covid vaccine children
+2377,257,covid vaccine children
+2358,258,covid vaccine children
+2351,259,covid vaccine children
+2349,260,covid vaccine children
+2347,261,covid vaccine children
+2338,262,covid vaccine children
+2337,263,covid vaccine children
+2277,264,covid vaccine children
+2257,265,covid vaccine children
+2256,266,covid vaccine children
+2254,267,covid vaccine children
+2252,268,covid vaccine children
+2250,269,covid vaccine children
+2246,270,covid vaccine children
+2242,271,covid vaccine children
+2241,272,covid vaccine children
+222,273,covid vaccine children
+2212,274,covid vaccine children
+221,275,covid vaccine children
+2204,276,covid vaccine children
+2202,277,covid vaccine children
+22,278,covid vaccine children
+2198,279,covid vaccine children
+2196,280,covid vaccine children
+2195,281,covid vaccine children
+2194,282,covid vaccine children
+2192,283,covid vaccine children
+2189,284,covid vaccine children
+2188,285,covid vaccine children
+2164,286,covid vaccine children
+216,287,covid vaccine children
+2143,288,covid vaccine children
+2124,289,covid vaccine children
+2120,290,covid vaccine children
+2119,291,covid vaccine children
+2117,292,covid vaccine children
+2116,293,covid vaccine children
+211,294,covid vaccine children
+2093,295,covid vaccine children
+2087,296,covid vaccine children
+2086,297,covid vaccine children
+2080,298,covid vaccine children
+208,299,covid vaccine children
+2077,300,covid vaccine children
+2072,301,covid vaccine children
+207,302,covid vaccine children
+2058,303,covid vaccine children
+2055,304,covid vaccine children
+2052,305,covid vaccine children
+2049,306,covid vaccine children
+2043,307,covid vaccine children
+2042,308,covid vaccine children
+2038,309,covid vaccine children
+2036,310,covid vaccine children
+2035,311,covid vaccine children
+203,312,covid vaccine children
+202,313,covid vaccine children
+2017,314,covid vaccine children
+2011,315,covid vaccine children
+2010,316,covid vaccine children
+201,317,covid vaccine children
+2008,318,covid vaccine children
+2007,319,covid vaccine children
+1998,320,covid vaccine children
+1996,321,covid vaccine children
+1989,322,covid vaccine children
+1983,323,covid vaccine children
+197,324,covid vaccine children
+1966,325,covid vaccine children
+1964,326,covid vaccine children
+1961,327,covid vaccine children
+196,328,covid vaccine children
+1952,329,covid vaccine children
+1950,330,covid vaccine children
+1947,331,covid vaccine children
+1944,332,covid vaccine children
+193,333,covid vaccine children
+1928,334,covid vaccine children
+1926,335,covid vaccine children
+1924,336,covid vaccine children
+1921,337,covid vaccine children
+191,338,covid vaccine children
+1904,339,covid vaccine children
+190,340,covid vaccine children
+1897,341,covid vaccine children
+1896,342,covid vaccine children
+1882,343,covid vaccine children
+1879,344,covid vaccine children
+1868,345,covid vaccine children
+1863,346,covid vaccine children
+1862,347,covid vaccine children
+1860,348,covid vaccine children
+186,349,covid vaccine children
+1859,350,covid vaccine children
+1855,351,covid vaccine children
+185,352,covid vaccine children
+1847,353,covid vaccine children
+1843,354,covid vaccine children
+1834,355,covid vaccine children
+1828,356,covid vaccine children
+182,357,covid vaccine children
+1812,358,covid vaccine children
+181,359,covid vaccine children
+180,360,covid vaccine children
+1795,361,covid vaccine children
+179,362,covid vaccine children
+1787,363,covid vaccine children
+178,364,covid vaccine children
+1777,365,covid vaccine children
+1776,366,covid vaccine children
+1773,367,covid vaccine children
+177,368,covid vaccine children
+176,369,covid vaccine children
+1735,370,covid vaccine children
+1730,371,covid vaccine children
+1718,372,covid vaccine children
+1717,373,covid vaccine children
+1709,374,covid vaccine children
+168,375,covid vaccine children
+167,376,covid vaccine children
+1661,377,covid vaccine children
+165,378,covid vaccine children
+1630,379,covid vaccine children
+163,380,covid vaccine children
+1629,381,covid vaccine children
+1627,382,covid vaccine children
+1617,383,covid vaccine children
+1615,384,covid vaccine children
+1614,385,covid vaccine children
+1613,386,covid vaccine children
+1610,387,covid vaccine children
+1606,388,covid vaccine children
+1605,389,covid vaccine children
+1604,390,covid vaccine children
+1603,391,covid vaccine children
+1602,392,covid vaccine children
+160,393,covid vaccine children
+1595,394,covid vaccine children
+1571,395,covid vaccine children
+1567,396,covid vaccine children
+1562,397,covid vaccine children
+1532,398,covid vaccine children
+1514,399,covid vaccine children
+1513,400,covid vaccine children
+1511,401,covid vaccine children
+1510,402,covid vaccine children
+1509,403,covid vaccine children
+1507,404,covid vaccine children
+1502,405,covid vaccine children
+1501,406,covid vaccine children
+1499,407,covid vaccine children
+1491,408,covid vaccine children
+1479,409,covid vaccine children
+1478,410,covid vaccine children
+1477,411,covid vaccine children
+1475,412,covid vaccine children
+1472,413,covid vaccine children
+1469,414,covid vaccine children
+1467,415,covid vaccine children
+1466,416,covid vaccine children
+1460,417,covid vaccine children
+1452,418,covid vaccine children
+1451,419,covid vaccine children
+1421,420,covid vaccine children
+142,421,covid vaccine children
+1414,422,covid vaccine children
+1413,423,covid vaccine children
+1412,424,covid vaccine children
+1411,425,covid vaccine children
+1407,426,covid vaccine children
+1400,427,covid vaccine children
+140,428,covid vaccine children
+1390,429,covid vaccine children
+1370,430,covid vaccine children
+1347,431,covid vaccine children
+1344,432,covid vaccine children
+1326,433,covid vaccine children
+1324,434,covid vaccine children
+1323,435,covid vaccine children
+1322,436,covid vaccine children
+1313,437,covid vaccine children
+1309,438,covid vaccine children
+1303,439,covid vaccine children
+1296,440,covid vaccine children
+1290,441,covid vaccine children
+1289,442,covid vaccine children
+1288,443,covid vaccine children
+1281,444,covid vaccine children
+1276,445,covid vaccine children
+1252,446,covid vaccine children
+1251,447,covid vaccine children
+1250,448,covid vaccine children
+1248,449,covid vaccine children
+1246,450,covid vaccine children
+1244,451,covid vaccine children
+1238,452,covid vaccine children
+1235,453,covid vaccine children
+1233,454,covid vaccine children
+1188,455,covid vaccine children
+1173,456,covid vaccine children
+1155,457,covid vaccine children
+1154,458,covid vaccine children
+1152,459,covid vaccine children
+1151,460,covid vaccine children
+1147,461,covid vaccine children
+1146,462,covid vaccine children
+1145,463,covid vaccine children
+1144,464,covid vaccine children
+1143,465,covid vaccine children
+1142,466,covid vaccine children
+1122,467,covid vaccine children
+1120,468,covid vaccine children
+1113,469,covid vaccine children
+1112,470,covid vaccine children
+1111,471,covid vaccine children
+1083,472,covid vaccine children
+1052,473,covid vaccine children
+1047,474,covid vaccine children
+1045,475,covid vaccine children
+1043,476,covid vaccine children
+1031,477,covid vaccine children
+61,1,covid
+200,2,covid
+1561,3,covid
+61,1,covid food
+200,2,covid food
+1561,3,covid food
+2026,4,covid food
+883,5,covid food
+888,6,covid food
+548,7,covid food
+2291,8,covid food
+2029,9,covid food
+2025,10,covid food
+1664,11,covid food
+1380,12,covid food
+1375,13,covid food
+1374,14,covid food
+1373,15,covid food
+882,16,covid food
+792,17,covid food
+547,18,covid food
+542,19,covid food
+524,20,covid food
+521,21,covid food
+519,22,covid food
+2331,23,covid food
+2297,24,covid food
+2292,25,covid food
+2281,26,covid food
+2274,27,covid food
+2209,28,covid food
+1753,29,covid food
+1751,30,covid food
+1738,31,covid food
+1729,32,covid food
+1724,33,covid food
+1719,34,covid food
+1666,35,covid food
+1599,36,covid food
+1570,37,covid food
+1555,38,covid food
+1481,39,covid food
+1443,40,covid food
+1442,41,covid food
+1438,42,covid food
+1426,43,covid food
+1379,44,covid food
+1377,45,covid food
+1376,46,covid food
+1372,47,covid food
+1215,48,covid food
+1214,49,covid food
+1189,50,covid food
+1067,51,covid food
+1063,52,covid food
+1062,53,covid food
+61,1,covid food
+200,2,covid food
+1561,3,covid food
+2026,4,covid food
+883,5,covid food
+888,6,covid food
+548,7,covid food
+2291,8,covid food
+2029,9,covid food
+2025,10,covid food
+1664,11,covid food
+1380,12,covid food
+1375,13,covid food
+1374,14,covid food
+1373,15,covid food
+882,16,covid food
+792,17,covid food
+547,18,covid food
+542,19,covid food
+524,20,covid food
+521,21,covid food
+519,22,covid food
+2331,23,covid food
+2297,24,covid food
+2292,25,covid food
+2281,26,covid food
+2274,27,covid food
+2209,28,covid food
+1753,29,covid food
+1751,30,covid food
+1738,31,covid food
+1729,32,covid food
+1724,33,covid food
+1719,34,covid food
+1666,35,covid food
+1599,36,covid food
+1570,37,covid food
+1555,38,covid food
+1481,39,covid food
+1443,40,covid food
+1442,41,covid food
+1438,42,covid food
+1426,43,covid food
+1379,44,covid food
+1377,45,covid food
+1376,46,covid food
+1372,47,covid food
+1215,48,covid food
+1214,49,covid food
+1189,50,covid food
+1067,51,covid food
+1063,52,covid food
+1062,53,covid food
+888,1,food
+883,2,food
+882,3,food
+792,4,food
+548,5,food
+547,6,food
+542,7,food
+524,8,food
+521,9,food
+519,10,food
+2331,11,food
+2297,12,food
+2292,13,food
+2291,14,food
+2281,15,food
+2274,16,food
+2209,17,food
+2029,18,food
+2026,19,food
+2025,20,food
+1753,21,food
+1751,22,food
+1738,23,food
+1729,24,food
+1724,25,food
+1719,26,food
+1666,27,food
+1664,28,food
+1599,29,food
+1570,30,food
+1555,31,food
+1481,32,food
+1443,33,food
+1442,34,food
+1438,35,food
+1426,36,food
+1380,37,food
+1379,38,food
+1377,39,food
+1376,40,food
+1375,41,food
+1374,42,food
+1373,43,food
+1372,44,food
+1215,45,food
+1214,46,food
+1189,47,food
+1067,48,food
+1063,49,food
+1062,50,food
+888,1,food
+883,2,food
+882,3,food
+792,4,food
+548,5,food
+547,6,food
+542,7,food
+524,8,food
+521,9,food
+519,10,food
+2331,11,food
+2297,12,food
+2292,13,food
+2291,14,food
+2281,15,food
+2274,16,food
+2209,17,food
+2029,18,food
+2026,19,food
+2025,20,food
+1753,21,food
+1751,22,food
+1738,23,food
+1729,24,food
+1724,25,food
+1719,26,food
+1666,27,food
+1664,28,food
+1599,29,food
+1570,30,food
+1555,31,food
+1481,32,food
+1443,33,food
+1442,34,food
+1438,35,food
+1426,36,food
+1380,37,food
+1379,38,food
+1377,39,food
+1376,40,food
+1375,41,food
+1374,42,food
+1373,43,food
+1372,44,food
+1215,45,food
+1214,46,food
+1189,47,food
+1067,48,food
+1063,49,food
+1062,50,food
+883,1,water
+792,2,water
+397,3,water
+2297,4,water
+2240,5,water
+2239,6,water
+2223,7,water
+2222,8,water
+2221,9,water
+2024,10,water
+2023,11,water
+2021,12,water
+1811,13,water
+1729,14,water
+1712,15,water
+141,16,water
+1372,17,water
+1175,18,water
+883,1,water
+792,2,water
+397,3,water
+2297,4,water
+2240,5,water
+2239,6,water
+2223,7,water
+2222,8,water
+2221,9,water
+2024,10,water
+2023,11,water
+2021,12,water
+1811,13,water
+1729,14,water
+1712,15,water
+141,16,water
+1372,17,water
+1175,18,water
+61,1,water covid
+200,2,water covid
+1561,3,water covid
+2024,4,water covid
+1811,5,water covid
+1712,6,water covid
+883,7,water covid
+792,8,water covid
+397,9,water covid
+2297,10,water covid
+2240,11,water covid
+2239,12,water covid
+2223,13,water covid
+2222,14,water covid
+2221,15,water covid
+2023,16,water covid
+2021,17,water covid
+1729,18,water covid
+141,19,water covid
+1372,20,water covid
+1175,21,water covid
+61,1,water food covid
+200,2,water food covid
+1561,3,water food covid
+2024,4,water food covid
+1811,5,water food covid
+1712,6,water food covid
+883,7,water food covid
+792,8,water food covid
+2297,9,water food covid
+1729,10,water food covid
+1372,11,water food covid
+397,12,water food covid
+2240,13,water food covid
+2239,14,water food covid
+2223,15,water food covid
+2222,16,water food covid
+2221,17,water food covid
+2023,18,water food covid
+2021,19,water food covid
+141,20,water food covid
+1175,21,water food covid
+2026,22,water food covid
+888,23,water food covid
+548,24,water food covid
+2291,25,water food covid
+2029,26,water food covid
+2025,27,water food covid
+1664,28,water food covid
+1380,29,water food covid
+1375,30,water food covid
+1374,31,water food covid
+1373,32,water food covid
+882,33,water food covid
+547,34,water food covid
+542,35,water food covid
+524,36,water food covid
+521,37,water food covid
+519,38,water food covid
+2331,39,water food covid
+2292,40,water food covid
+2281,41,water food covid
+2274,42,water food covid
+2209,43,water food covid
+1753,44,water food covid
+1751,45,water food covid
+1738,46,water food covid
+1724,47,water food covid
+1719,48,water food covid
+1666,49,water food covid
+1599,50,water food covid
+1570,51,water food covid
+1555,52,water food covid
+1481,53,water food covid
+1443,54,water food covid
+1442,55,water food covid
+1438,56,water food covid
+1426,57,water food covid
+1379,58,water food covid
+1377,59,water food covid
+1376,60,water food covid
+1215,61,water food covid
+1214,62,water food covid
+1189,63,water food covid
+1067,64,water food covid
+1063,65,water food covid
+1062,66,water food covid
+1561,1,covid symptoms
+61,2,covid symptoms
+200,3,covid symptoms
+700,4,covid symptoms
+311,5,covid symptoms
+199,6,covid symptoms
+172,7,covid symptoms
+930,8,covid symptoms
+926,9,covid symptoms
+917,10,covid symptoms
+767,11,covid symptoms
+324,12,covid symptoms
+1953,13,covid symptoms
+1856,14,covid symptoms
+173,15,covid symptoms
+1466,16,covid symptoms
+1405,17,covid symptoms
+123,18,covid symptoms
+110,19,covid symptoms
+107,20,covid symptoms
+823,1,hospital doctor
+663,2,hospital doctor
+654,3,hospital doctor
+569,4,hospital doctor
+2374,5,hospital doctor
+118,6,hospital doctor
+1963,7,hospital doctor
+136,8,hospital doctor
+861,9,hospital doctor
+794,10,hospital doctor
+791,11,hospital doctor
+785,12,hospital doctor
+781,13,hospital doctor
+689,14,hospital doctor
+664,15,hospital doctor
+631,16,hospital doctor
+629,17,hospital doctor
+628,18,hospital doctor
+611,19,hospital doctor
+561,20,hospital doctor
+448,21,hospital doctor
+424,22,hospital doctor
+304,23,hospital doctor
+2380,24,hospital doctor
+2362,25,hospital doctor
+2269,26,hospital doctor
+2204,27,hospital doctor
+2193,28,hospital doctor
+2171,29,hospital doctor
+2158,30,hospital doctor
+2147,31,hospital doctor
+2146,32,hospital doctor
+2060,33,hospital doctor
+1867,34,hospital doctor
+1807,35,hospital doctor
+1787,36,hospital doctor
+1738,37,hospital doctor
+1704,38,hospital doctor
+1658,39,hospital doctor
+1542,40,hospital doctor
+1525,41,hospital doctor
+1496,42,hospital doctor
+1495,43,hospital doctor
+1490,44,hospital doctor
+1482,45,hospital doctor
+1480,46,hospital doctor
+1474,47,hospital doctor
+1473,48,hospital doctor
+1454,49,hospital doctor
+144,50,hospital doctor
+1396,51,hospital doctor
+1394,52,hospital doctor
+1393,53,hospital doctor
+1386,54,hospital doctor
+1384,55,hospital doctor
+1338,56,hospital doctor
+1314,57,hospital doctor
+1302,58,hospital doctor
+1050,59,hospital doctor
+823,1,hospital doctor
+663,2,hospital doctor
+654,3,hospital doctor
+569,4,hospital doctor
+2374,5,hospital doctor
+118,6,hospital doctor
+1963,7,hospital doctor
+136,8,hospital doctor
+861,9,hospital doctor
+794,10,hospital doctor
+791,11,hospital doctor
+785,12,hospital doctor
+781,13,hospital doctor
+689,14,hospital doctor
+664,15,hospital doctor
+631,16,hospital doctor
+629,17,hospital doctor
+628,18,hospital doctor
+611,19,hospital doctor
+561,20,hospital doctor
+448,21,hospital doctor
+424,22,hospital doctor
+304,23,hospital doctor
+2380,24,hospital doctor
+2362,25,hospital doctor
+2269,26,hospital doctor
+2204,27,hospital doctor
+2193,28,hospital doctor
+2171,29,hospital doctor
+2158,30,hospital doctor
+2147,31,hospital doctor
+2146,32,hospital doctor
+2060,33,hospital doctor
+1867,34,hospital doctor
+1807,35,hospital doctor
+1787,36,hospital doctor
+1738,37,hospital doctor
+1704,38,hospital doctor
+1658,39,hospital doctor
+1542,40,hospital doctor
+1525,41,hospital doctor
+1496,42,hospital doctor
+1495,43,hospital doctor
+1490,44,hospital doctor
+1482,45,hospital doctor
+1480,46,hospital doctor
+1474,47,hospital doctor
+1473,48,hospital doctor
+1454,49,hospital doctor
+144,50,hospital doctor
+1396,51,hospital doctor
+1394,52,hospital doctor
+1393,53,hospital doctor
+1386,54,hospital doctor
+1384,55,hospital doctor
+1338,56,hospital doctor
+1314,57,hospital doctor
+1302,58,hospital doctor
+1050,59,hospital doctor
+823,1,hospital doctor
+663,2,hospital doctor
+654,3,hospital doctor
+569,4,hospital doctor
+2374,5,hospital doctor
+118,6,hospital doctor
+1963,7,hospital doctor
+136,8,hospital doctor
+861,9,hospital doctor
+794,10,hospital doctor
+791,11,hospital doctor
+785,12,hospital doctor
+781,13,hospital doctor
+689,14,hospital doctor
+664,15,hospital doctor
+631,16,hospital doctor
+629,17,hospital doctor
+628,18,hospital doctor
+611,19,hospital doctor
+561,20,hospital doctor
+448,21,hospital doctor
+424,22,hospital doctor
+304,23,hospital doctor
+2380,24,hospital doctor
+2362,25,hospital doctor
+2269,26,hospital doctor
+2204,27,hospital doctor
+2193,28,hospital doctor
+2171,29,hospital doctor
+2158,30,hospital doctor
+2147,31,hospital doctor
+2146,32,hospital doctor
+2060,33,hospital doctor
+1867,34,hospital doctor
+1807,35,hospital doctor
+1787,36,hospital doctor
+1738,37,hospital doctor
+1704,38,hospital doctor
+1658,39,hospital doctor
+1542,40,hospital doctor
+1525,41,hospital doctor
+1496,42,hospital doctor
+1495,43,hospital doctor
+1490,44,hospital doctor
+1482,45,hospital doctor
+1480,46,hospital doctor
+1474,47,hospital doctor
+1473,48,hospital doctor
+1454,49,hospital doctor
+144,50,hospital doctor
+1396,51,hospital doctor
+1394,52,hospital doctor
+1393,53,hospital doctor
+1386,54,hospital doctor
+1384,55,hospital doctor
+1338,56,hospital doctor
+1314,57,hospital doctor
+1302,58,hospital doctor
+1050,59,hospital doctor
+823,1,hospital doctor
+663,2,hospital doctor
+654,3,hospital doctor
+569,4,hospital doctor
+2374,5,hospital doctor
+118,6,hospital doctor
+1963,7,hospital doctor
+136,8,hospital doctor
+861,9,hospital doctor
+794,10,hospital doctor
+791,11,hospital doctor
+785,12,hospital doctor
+781,13,hospital doctor
+689,14,hospital doctor
+664,15,hospital doctor
+631,16,hospital doctor
+629,17,hospital doctor
+628,18,hospital doctor
+611,19,hospital doctor
+561,20,hospital doctor
+448,21,hospital doctor
+424,22,hospital doctor
+304,23,hospital doctor
+2380,24,hospital doctor
+2362,25,hospital doctor
+2269,26,hospital doctor
+2204,27,hospital doctor
+2193,28,hospital doctor
+2171,29,hospital doctor
+2158,30,hospital doctor
+2147,31,hospital doctor
+2146,32,hospital doctor
+2060,33,hospital doctor
+1867,34,hospital doctor
+1807,35,hospital doctor
+1787,36,hospital doctor
+1738,37,hospital doctor
+1704,38,hospital doctor
+1658,39,hospital doctor
+1542,40,hospital doctor
+1525,41,hospital doctor
+1496,42,hospital doctor
+1495,43,hospital doctor
+1490,44,hospital doctor
+1482,45,hospital doctor
+1480,46,hospital doctor
+1474,47,hospital doctor
+1473,48,hospital doctor
+1454,49,hospital doctor
+144,50,hospital doctor
+1396,51,hospital doctor
+1394,52,hospital doctor
+1393,53,hospital doctor
+1386,54,hospital doctor
+1384,55,hospital doctor
+1338,56,hospital doctor
+1314,57,hospital doctor
+1302,58,hospital doctor
+1050,59,hospital doctor
+823,1,hospital doctor
+663,2,hospital doctor
+654,3,hospital doctor
+569,4,hospital doctor
+2374,5,hospital doctor
+118,6,hospital doctor
+1963,7,hospital doctor
+136,8,hospital doctor
+861,9,hospital doctor
+794,10,hospital doctor
+791,11,hospital doctor
+785,12,hospital doctor
+781,13,hospital doctor
+689,14,hospital doctor
+664,15,hospital doctor
+631,16,hospital doctor
+629,17,hospital doctor
+628,18,hospital doctor
+611,19,hospital doctor
+561,20,hospital doctor
+448,21,hospital doctor
+424,22,hospital doctor
+304,23,hospital doctor
+2380,24,hospital doctor
+2362,25,hospital doctor
+2269,26,hospital doctor
+2204,27,hospital doctor
+2193,28,hospital doctor
+2171,29,hospital doctor
+2158,30,hospital doctor
+2147,31,hospital doctor
+2146,32,hospital doctor
+2060,33,hospital doctor
+1867,34,hospital doctor
+1807,35,hospital doctor
+1787,36,hospital doctor
+1738,37,hospital doctor
+1704,38,hospital doctor
+1658,39,hospital doctor
+1542,40,hospital doctor
+1525,41,hospital doctor
+1496,42,hospital doctor
+1495,43,hospital doctor
+1490,44,hospital doctor
+1482,45,hospital doctor
+1480,46,hospital doctor
+1474,47,hospital doctor
+1473,48,hospital doctor
+1454,49,hospital doctor
+144,50,hospital doctor
+1396,51,hospital doctor
+1394,52,hospital doctor
+1393,53,hospital doctor
+1386,54,hospital doctor
+1384,55,hospital doctor
+1338,56,hospital doctor
+1314,57,hospital doctor
+1302,58,hospital doctor
+1050,59,hospital doctor
+823,1,hospital doctor
+663,2,hospital doctor
+654,3,hospital doctor
+569,4,hospital doctor
+2374,5,hospital doctor
+118,6,hospital doctor
+1963,7,hospital doctor
+136,8,hospital doctor
+861,9,hospital doctor
+794,10,hospital doctor
+791,11,hospital doctor
+785,12,hospital doctor
+781,13,hospital doctor
+689,14,hospital doctor
+664,15,hospital doctor
+631,16,hospital doctor
+629,17,hospital doctor
+628,18,hospital doctor
+611,19,hospital doctor
+561,20,hospital doctor
+448,21,hospital doctor
+424,22,hospital doctor
+304,23,hospital doctor
+2380,24,hospital doctor
+2362,25,hospital doctor
+2269,26,hospital doctor
+2204,27,hospital doctor
+2193,28,hospital doctor
+2171,29,hospital doctor
+2158,30,hospital doctor
+2147,31,hospital doctor
+2146,32,hospital doctor
+2060,33,hospital doctor
+1867,34,hospital doctor
+1807,35,hospital doctor
+1787,36,hospital doctor
+1738,37,hospital doctor
+1704,38,hospital doctor
+1658,39,hospital doctor
+1542,40,hospital doctor
+1525,41,hospital doctor
+1496,42,hospital doctor
+1495,43,hospital doctor
+1490,44,hospital doctor
+1482,45,hospital doctor
+1480,46,hospital doctor
+1474,47,hospital doctor
+1473,48,hospital doctor
+1454,49,hospital doctor
+144,50,hospital doctor
+1396,51,hospital doctor
+1394,52,hospital doctor
+1393,53,hospital doctor
+1386,54,hospital doctor
+1384,55,hospital doctor
+1338,56,hospital doctor
+1314,57,hospital doctor
+1302,58,hospital doctor
+1050,59,hospital doctor
+823,1,hospital doctor
+663,2,hospital doctor
+654,3,hospital doctor
+569,4,hospital doctor
+2374,5,hospital doctor
+118,6,hospital doctor
+1963,7,hospital doctor
+136,8,hospital doctor
+861,9,hospital doctor
+794,10,hospital doctor
+791,11,hospital doctor
+785,12,hospital doctor
+781,13,hospital doctor
+689,14,hospital doctor
+664,15,hospital doctor
+631,16,hospital doctor
+629,17,hospital doctor
+628,18,hospital doctor
+611,19,hospital doctor
+561,20,hospital doctor
+448,21,hospital doctor
+424,22,hospital doctor
+304,23,hospital doctor
+2380,24,hospital doctor
+2362,25,hospital doctor
+2269,26,hospital doctor
+2204,27,hospital doctor
+2193,28,hospital doctor
+2171,29,hospital doctor
+2158,30,hospital doctor
+2147,31,hospital doctor
+2146,32,hospital doctor
+2060,33,hospital doctor
+1867,34,hospital doctor
+1807,35,hospital doctor
+1787,36,hospital doctor
+1738,37,hospital doctor
+1704,38,hospital doctor
+1658,39,hospital doctor
+1542,40,hospital doctor
+1525,41,hospital doctor
+1496,42,hospital doctor
+1495,43,hospital doctor
+1490,44,hospital doctor
+1482,45,hospital doctor
+1480,46,hospital doctor
+1474,47,hospital doctor
+1473,48,hospital doctor
+1454,49,hospital doctor
+144,50,hospital doctor
+1396,51,hospital doctor
+1394,52,hospital doctor
+1393,53,hospital doctor
+1386,54,hospital doctor
+1384,55,hospital doctor
+1338,56,hospital doctor
+1314,57,hospital doctor
+1302,58,hospital doctor
+1050,59,hospital doctor
+823,1,hospital doctor
+663,2,hospital doctor
+654,3,hospital doctor
+569,4,hospital doctor
+2374,5,hospital doctor
+118,6,hospital doctor
+1963,7,hospital doctor
+136,8,hospital doctor
+861,9,hospital doctor
+794,10,hospital doctor
+791,11,hospital doctor
+785,12,hospital doctor
+781,13,hospital doctor
+689,14,hospital doctor
+664,15,hospital doctor
+631,16,hospital doctor
+629,17,hospital doctor
+628,18,hospital doctor
+611,19,hospital doctor
+561,20,hospital doctor
+448,21,hospital doctor
+424,22,hospital doctor
+304,23,hospital doctor
+2380,24,hospital doctor
+2362,25,hospital doctor
+2269,26,hospital doctor
+2204,27,hospital doctor
+2193,28,hospital doctor
+2171,29,hospital doctor
+2158,30,hospital doctor
+2147,31,hospital doctor
+2146,32,hospital doctor
+2060,33,hospital doctor
+1867,34,hospital doctor
+1807,35,hospital doctor
+1787,36,hospital doctor
+1738,37,hospital doctor
+1704,38,hospital doctor
+1658,39,hospital doctor
+1542,40,hospital doctor
+1525,41,hospital doctor
+1496,42,hospital doctor
+1495,43,hospital doctor
+1490,44,hospital doctor
+1482,45,hospital doctor
+1480,46,hospital doctor
+1474,47,hospital doctor
+1473,48,hospital doctor
+1454,49,hospital doctor
+144,50,hospital doctor
+1396,51,hospital doctor
+1394,52,hospital doctor
+1393,53,hospital doctor
+1386,54,hospital doctor
+1384,55,hospital doctor
+1338,56,hospital doctor
+1314,57,hospital doctor
+1302,58,hospital doctor
+1050,59,hospital doctor
+823,1,hospital doctor
+663,2,hospital doctor
+654,3,hospital doctor
+569,4,hospital doctor
+2374,5,hospital doctor
+118,6,hospital doctor
+1963,7,hospital doctor
+136,8,hospital doctor
+861,9,hospital doctor
+794,10,hospital doctor
+791,11,hospital doctor
+785,12,hospital doctor
+781,13,hospital doctor
+689,14,hospital doctor
+664,15,hospital doctor
+631,16,hospital doctor
+629,17,hospital doctor
+628,18,hospital doctor
+611,19,hospital doctor
+561,20,hospital doctor
+448,21,hospital doctor
+424,22,hospital doctor
+304,23,hospital doctor
+2380,24,hospital doctor
+2362,25,hospital doctor
+2269,26,hospital doctor
+2204,27,hospital doctor
+2193,28,hospital doctor
+2171,29,hospital doctor
+2158,30,hospital doctor
+2147,31,hospital doctor
+2146,32,hospital doctor
+2060,33,hospital doctor
+1867,34,hospital doctor
+1807,35,hospital doctor
+1787,36,hospital doctor
+1738,37,hospital doctor
+1704,38,hospital doctor
+1658,39,hospital doctor
+1542,40,hospital doctor
+1525,41,hospital doctor
+1496,42,hospital doctor
+1495,43,hospital doctor
+1490,44,hospital doctor
+1482,45,hospital doctor
+1480,46,hospital doctor
+1474,47,hospital doctor
+1473,48,hospital doctor
+1454,49,hospital doctor
+144,50,hospital doctor
+1396,51,hospital doctor
+1394,52,hospital doctor
+1393,53,hospital doctor
+1386,54,hospital doctor
+1384,55,hospital doctor
+1338,56,hospital doctor
+1314,57,hospital doctor
+1302,58,hospital doctor
+1050,59,hospital doctor
+955,1,fast food
+789,2,fast food
+2119,3,fast food
+1943,4,fast food
+1398,5,fast food
+1150,6,fast food
+1002,7,fast food
+2026,8,fast food
+883,9,fast food
+888,10,fast food
+548,11,fast food
+2291,12,fast food
+2029,13,fast food
+2025,14,fast food
+1664,15,fast food
+1380,16,fast food
+1375,17,fast food
+1374,18,fast food
+1373,19,fast food
+882,20,fast food
+792,21,fast food
+547,22,fast food
+542,23,fast food
+524,24,fast food
+521,25,fast food
+519,26,fast food
+2331,27,fast food
+2297,28,fast food
+2292,29,fast food
+2281,30,fast food
+2274,31,fast food
+2209,32,fast food
+1753,33,fast food
+1751,34,fast food
+1738,35,fast food
+1729,36,fast food
+1724,37,fast food
+1719,38,fast food
+1666,39,fast food
+1599,40,fast food
+1570,41,fast food
+1555,42,fast food
+1481,43,fast food
+1443,44,fast food
+1442,45,fast food
+1438,46,fast food
+1426,47,fast food
+1379,48,fast food
+1377,49,fast food
+1376,50,fast food
+1372,51,fast food
+1215,52,fast food
+1214,53,fast food
+1189,54,fast food
+1067,55,fast food
+1063,56,fast food
+1062,57,fast food
+72,1,fast food
+2316,2,fast food
+71,3,fast food
+139,4,fast food
+1369,5,fast food
+657,6,fast food
+2289,7,fast food
+83,8,fast food
+803,9,fast food
+67,10,fast food
+56,11,fast food
+52,12,fast food
+42,13,fast food
+41,14,fast food
+40,15,fast food
+38,16,fast food
+277,17,fast food
+2321,18,fast food
+2319,19,fast food
+2318,20,fast food
+2304,21,fast food
+2096,22,fast food
+156,23,fast food
+154,24,fast food
+1529,25,fast food
+147,26,fast food
+1442,27,fast food
+704,28,fast food
+592,29,fast food
+55,30,fast food
+2317,31,fast food
+2280,32,fast food
+144,33,fast food
+143,34,fast food
+136,35,fast food
+130,36,fast food
+113,37,fast food
+459,38,fast food
+1205,39,fast food
+616,40,fast food
+612,41,fast food
+29,42,fast food
+877,43,fast food
+661,44,fast food
+615,45,fast food
+560,46,fast food
+297,47,fast food
+294,48,fast food
+291,49,fast food
+290,50,fast food
+28,51,fast food
+2398,52,fast food
+2390,53,fast food
+2389,54,fast food
+2380,55,fast food
+2344,56,fast food
+2342,57,fast food
+2327,58,fast food
+2290,59,fast food
+2288,60,fast food
+2156,61,fast food
+1436,62,fast food
+1216,63,fast food
+1211,64,fast food
+1032,65,fast food
+989,66,fast food
+987,67,fast food
+986,68,fast food
+932,69,fast food
+916,70,fast food
+913,71,fast food
+910,72,fast food
+867,73,fast food
+788,74,fast food
+786,75,fast food
+785,76,fast food
+734,77,fast food
+714,78,fast food
+712,79,fast food
+695,80,fast food
+686,81,fast food
+665,82,fast food
+636,83,fast food
+627,84,fast food
+611,85,fast food
+588,86,fast food
+573,87,fast food
+572,88,fast food
+571,89,fast food
+565,90,fast food
+558,91,fast food
+499,92,fast food
+462,93,fast food
+458,94,fast food
+440,95,fast food
+434,96,fast food
+427,97,fast food
+415,98,fast food
+413,99,fast food
+408,100,fast food
+34,101,fast food
+317,102,fast food
+298,103,fast food
+293,104,fast food
+287,105,fast food
+2343,106,fast food
+2325,107,fast food
+2323,108,fast food
+2285,109,fast food
+2283,110,fast food
+2266,111,fast food
+2265,112,fast food
+2247,113,fast food
+2233,114,fast food
+2220,115,fast food
+2215,116,fast food
+215,117,fast food
+2145,118,fast food
+2144,119,fast food
+2125,120,fast food
+2056,121,fast food
+2036,122,fast food
+2020,123,fast food
+2,124,fast food
+1912,125,fast food
+1911,126,fast food
+1852,127,fast food
+1850,128,fast food
+1756,129,fast food
+1755,130,fast food
+1753,131,fast food
+1691,132,fast food
+1683,133,fast food
+1681,134,fast food
+1645,135,fast food
+1638,136,fast food
+1581,137,fast food
+1542,138,fast food
+1541,139,fast food
+1540,140,fast food
+1539,141,fast food
+1538,142,fast food
+1488,143,fast food
+1482,144,fast food
+1456,145,fast food
+1439,146,fast food
+1365,147,fast food
+1346,148,fast food
+1316,149,fast food
+1284,150,fast food
+1260,151,fast food
+1259,152,fast food
+1258,153,fast food
+1202,154,fast food
+1197,155,fast food
+1193,156,fast food
+1111,157,fast food
+1107,158,fast food
+1088,159,fast food
+1078,160,fast food
+1048,161,fast food
+1035,162,fast food
+1,163,fast food
+988,164,fast food
+981,165,fast food
+980,166,fast food
+976,167,fast food
+975,168,fast food
+950,169,fast food
+938,170,fast food
+933,171,fast food
+930,172,fast food
+928,173,fast food
+926,174,fast food
+925,175,fast food
+924,176,fast food
+923,177,fast food
+921,178,fast food
+920,179,fast food
+914,180,fast food
+912,181,fast food
+909,182,fast food
+908,183,fast food
+907,184,fast food
+906,185,fast food
+905,186,fast food
+903,187,fast food
+902,188,fast food
+900,189,fast food
+899,190,fast food
+895,191,fast food
+893,192,fast food
+891,193,fast food
+881,194,fast food
+868,195,fast food
+865,196,fast food
+862,197,fast food
+860,198,fast food
+837,199,fast food
+831,200,fast food
+830,201,fast food
+829,202,fast food
+820,203,fast food
+815,204,fast food
+784,205,fast food
+781,206,fast food
+780,207,fast food
+776,208,fast food
+771,209,fast food
+768,210,fast food
+764,211,fast food
+761,212,fast food
+76,213,fast food
+74,214,fast food
+733,215,fast food
+729,216,fast food
+709,217,fast food
+708,218,fast food
+705,219,fast food
+700,220,fast food
+697,221,fast food
+692,222,fast food
+690,223,fast food
+683,224,fast food
+680,225,fast food
+672,226,fast food
+662,227,fast food
+656,228,fast food
+653,229,fast food
+650,230,fast food
+646,231,fast food
+644,232,fast food
+637,233,fast food
+634,234,fast food
+633,235,fast food
+625,236,fast food
+621,237,fast food
+62,238,fast food
+618,239,fast food
+617,240,fast food
+610,241,fast food
+606,242,fast food
+602,243,fast food
+599,244,fast food
+598,245,fast food
+596,246,fast food
+594,247,fast food
+593,248,fast food
+586,249,fast food
+584,250,fast food
+578,251,fast food
+577,252,fast food
+570,253,fast food
+568,254,fast food
+556,255,fast food
+555,256,fast food
+548,257,fast food
+547,258,fast food
+546,259,fast food
+545,260,fast food
+543,261,fast food
+541,262,fast food
+539,263,fast food
+537,264,fast food
+530,265,fast food
+529,266,fast food
+528,267,fast food
+525,268,fast food
+521,269,fast food
+520,270,fast food
+502,271,fast food
+50,272,fast food
+497,273,fast food
+496,274,fast food
+494,275,fast food
+454,276,fast food
+453,277,fast food
+444,278,fast food
+443,279,fast food
+436,280,fast food
+432,281,fast food
+429,282,fast food
+426,283,fast food
+425,284,fast food
+423,285,fast food
+422,286,fast food
+420,287,fast food
+418,288,fast food
+410,289,fast food
+409,290,fast food
+400,291,fast food
+398,292,fast food
+395,293,fast food
+355,294,fast food
+354,295,fast food
+351,296,fast food
+35,297,fast food
+349,298,fast food
+346,299,fast food
+337,300,fast food
+336,301,fast food
+330,302,fast food
+33,303,fast food
+319,304,fast food
+314,305,fast food
+306,306,fast food
+299,307,fast food
+296,308,fast food
+289,309,fast food
+286,310,fast food
+27,311,fast food
+268,312,fast food
+265,313,fast food
+255,314,fast food
+253,315,fast food
+2395,316,fast food
+2393,317,fast food
+2385,318,fast food
+2378,319,fast food
+2377,320,fast food
+2374,321,fast food
+2369,322,fast food
+2367,323,fast food
+236,324,fast food
+235,325,fast food
+2345,326,fast food
+2340,327,fast food
+2337,328,fast food
+2336,329,fast food
+2334,330,fast food
+2331,331,fast food
+2329,332,fast food
+2328,333,fast food
+2324,334,fast food
+2315,335,fast food
+2314,336,fast food
+2312,337,fast food
+2310,338,fast food
+2308,339,fast food
+2306,340,fast food
+2305,341,fast food
+2302,342,fast food
+2301,343,fast food
+2300,344,fast food
+23,345,fast food
+2299,346,fast food
+2294,347,fast food
+2293,348,fast food
+2286,349,fast food
+2281,350,fast food
+2279,351,fast food
+2277,352,fast food
+2275,353,fast food
+2272,354,fast food
+2269,355,fast food
+2267,356,fast food
+2260,357,fast food
+2255,358,fast food
+2251,359,fast food
+2249,360,fast food
+2238,361,fast food
+2237,362,fast food
+2236,363,fast food
+2235,364,fast food
+2234,365,fast food
+2232,366,fast food
+2231,367,fast food
+2230,368,fast food
+2225,369,fast food
+2218,370,fast food
+2217,371,fast food
+2213,372,fast food
+2203,373,fast food
+2200,374,fast food
+2196,375,fast food
+2193,376,fast food
+219,377,fast food
+2184,378,fast food
+2182,379,fast food
+2174,380,fast food
+2172,381,fast food
+2163,382,fast food
+2158,383,fast food
+2155,384,fast food
+2154,385,fast food
+2147,386,fast food
+2139,387,fast food
+2138,388,fast food
+2129,389,fast food
+2120,390,fast food
+2117,391,fast food
+2116,392,fast food
+2113,393,fast food
+2093,394,fast food
+209,395,fast food
+2088,396,fast food
+2086,397,fast food
+2082,398,fast food
+2075,399,fast food
+2065,400,fast food
+2058,401,fast food
+2057,402,fast food
+2054,403,fast food
+2050,404,fast food
+2037,405,fast food
+2035,406,fast food
+2026,407,fast food
+2025,408,fast food
+2016,409,fast food
+2014,410,fast food
+2013,411,fast food
+2003,412,fast food
+1995,413,fast food
+1994,414,fast food
+1980,415,fast food
+1979,416,fast food
+1973,417,fast food
+1972,418,fast food
+1971,419,fast food
+1969,420,fast food
+1948,421,fast food
+1943,422,fast food
+1942,423,fast food
+1941,424,fast food
+1940,425,fast food
+1932,426,fast food
+1925,427,fast food
+1921,428,fast food
+1920,429,fast food
+1913,430,fast food
+1910,431,fast food
+1909,432,fast food
+1902,433,fast food
+19,434,fast food
+189,435,fast food
+1883,436,fast food
+1874,437,fast food
+1873,438,fast food
+1867,439,fast food
+186,440,fast food
+1857,441,fast food
+185,442,fast food
+1846,443,fast food
+1842,444,fast food
+1826,445,fast food
+1823,446,fast food
+1822,447,fast food
+1818,448,fast food
+1817,449,fast food
+1816,450,fast food
+1809,451,fast food
+1804,452,fast food
+1803,453,fast food
+1801,454,fast food
+1800,455,fast food
+1799,456,fast food
+1798,457,fast food
+1797,458,fast food
+1796,459,fast food
+1793,460,fast food
+1790,461,fast food
+1786,462,fast food
+1761,463,fast food
+1757,464,fast food
+1752,465,fast food
+1751,466,fast food
+1743,467,fast food
+1742,468,fast food
+1741,469,fast food
+1740,470,fast food
+1738,471,fast food
+1737,472,fast food
+1719,473,fast food
+1699,474,fast food
+1698,475,fast food
+1697,476,fast food
+1696,477,fast food
+1695,478,fast food
+1689,479,fast food
+1682,480,fast food
+1679,481,fast food
+1676,482,fast food
+1675,483,fast food
+1673,484,fast food
+1669,485,fast food
+1666,486,fast food
+1664,487,fast food
+1663,488,fast food
+1662,489,fast food
+166,490,fast food
+1658,491,fast food
+1657,492,fast food
+1633,493,fast food
+1614,494,fast food
+1592,495,fast food
+1556,496,fast food
+1533,497,fast food
+153,498,fast food
+152,499,fast food
+1518,500,fast food
+1502,501,fast food
+15,502,fast food
+1499,503,fast food
+1494,504,fast food
+1493,505,fast food
+1487,506,fast food
+1486,507,fast food
+1485,508,fast food
+1484,509,fast food
+1483,510,fast food
+1481,511,fast food
+148,512,fast food
+1462,513,fast food
+1461,514,fast food
+1459,515,fast food
+1451,516,fast food
+1448,517,fast food
+1444,518,fast food
+1443,519,fast food
+1441,520,fast food
+1437,521,fast food
+1435,522,fast food
+1432,523,fast food
+1424,524,fast food
+1420,525,fast food
+1419,526,fast food
+1405,527,fast food
+1404,528,fast food
+1403,529,fast food
+1392,530,fast food
+1379,531,fast food
+1378,532,fast food
+1366,533,fast food
+135,534,fast food
+1345,535,fast food
+134,536,fast food
+1337,537,fast food
+1336,538,fast food
+1317,539,fast food
+1301,540,fast food
+1288,541,fast food
+1283,542,fast food
+1282,543,fast food
+1276,544,fast food
+1275,545,fast food
+1273,546,fast food
+1267,547,fast food
+1264,548,fast food
+1263,549,fast food
+1262,550,fast food
+1261,551,fast food
+1253,552,fast food
+1248,553,fast food
+1246,554,fast food
+1244,555,fast food
+1236,556,fast food
+1234,557,fast food
+1224,558,fast food
+1220,559,fast food
+1219,560,fast food
+1215,561,fast food
+1214,562,fast food
+1203,563,fast food
+1201,564,fast food
+1200,565,fast food
+12,566,fast food
+1199,567,fast food
+1191,568,fast food
+1189,569,fast food
+1177,570,fast food
+1161,571,fast food
+1156,572,fast food
+1140,573,fast food
+114,574,fast food
+1134,575,fast food
+1132,576,fast food
+1131,577,fast food
+1130,578,fast food
+1129,579,fast food
+1126,580,fast food
+1121,581,fast food
+1120,582,fast food
+1115,583,fast food
+1110,584,fast food
+111,585,fast food
+1102,586,fast food
+1094,587,fast food
+1083,588,fast food
+1081,589,fast food
+1079,590,fast food
+1077,591,fast food
+1066,592,fast food
+1059,593,fast food
+1058,594,fast food
+1050,595,fast food
+1044,596,fast food
+1039,597,fast food
+1036,598,fast food
+1030,599,fast food
+1029,600,fast food
+1019,601,fast food
+1017,602,fast food
+1015,603,fast food
+1010,604,fast food
+0,605,fast food
+823,1,mental health
+663,2,mental health
+654,3,mental health
+569,4,mental health
+2374,5,mental health
+118,6,mental health
+1963,7,mental health
+136,8,mental health
+861,9,mental health
+794,10,mental health
+791,11,mental health
+785,12,mental health
+781,13,mental health
+689,14,mental health
+664,15,mental health
+631,16,mental health
+629,17,mental health
+628,18,mental health
+611,19,mental health
+561,20,mental health
+448,21,mental health
+424,22,mental health
+304,23,mental health
+2380,24,mental health
+2362,25,mental health
+2269,26,mental health
+2204,27,mental health
+2193,28,mental health
+2171,29,mental health
+2158,30,mental health
+2147,31,mental health
+2146,32,mental health
+2060,33,mental health
+1867,34,mental health
+1807,35,mental health
+1787,36,mental health
+1738,37,mental health
+1704,38,mental health
+1658,39,mental health
+1542,40,mental health
+1525,41,mental health
+1496,42,mental health
+1495,43,mental health
+1490,44,mental health
+1482,45,mental health
+1480,46,mental health
+1474,47,mental health
+1473,48,mental health
+1454,49,mental health
+144,50,mental health
+1396,51,mental health
+1394,52,mental health
+1393,53,mental health
+1386,54,mental health
+1384,55,mental health
+1338,56,mental health
+1314,57,mental health
+1302,58,mental health
+1050,59,mental health
+61,1,nurse
+200,2,nurse
+1561,3,nurse
+1110,4,nurse
+904,5,nurse
+510,6,nurse
+509,7,nurse
+2001,8,nurse
+1968,9,nurse
+164,10,nurse
+1626,11,nurse
+137,12,nurse
+1332,13,nurse
+1310,14,nurse
+1166,15,nurse
+973,16,nurse
+967,17,nurse
+915,18,nurse
+884,19,nurse
+858,20,nurse
+850,21,nurse
+841,22,nurse
+836,23,nurse
+752,24,nurse
+749,25,nurse
+742,26,nurse
+727,27,nurse
+679,28,nurse
+614,29,nurse
+579,30,nurse
+531,31,nurse
+514,32,nurse
+511,33,nurse
+501,34,nurse
+486,35,nurse
+406,36,nurse
+396,37,nurse
+284,38,nurse
+283,39,nurse
+279,40,nurse
+276,41,nurse
+272,42,nurse
+2340,43,nurse
+2253,44,nurse
+2244,45,nurse
+2243,46,nurse
+2219,47,nurse
+2193,48,nurse
+2190,49,nurse
+219,50,nurse
+2187,51,nurse
+2186,52,nurse
+2153,53,nurse
+215,54,nurse
+213,55,nurse
+2115,56,nurse
+2112,57,nurse
+209,58,nurse
+206,59,nurse
+205,60,nurse
+2047,61,nurse
+2044,62,nurse
+2041,63,nurse
+2040,64,nurse
+2003,65,nurse
+2002,66,nurse
+1959,67,nurse
+195,68,nurse
+194,69,nurse
+1930,70,nurse
+1927,71,nurse
+192,72,nurse
+1895,73,nurse
+1884,74,nurse
+188,75,nurse
+1865,76,nurse
+1849,77,nurse
+1846,78,nurse
+1833,79,nurse
+183,80,nurse
+1774,81,nurse
+166,82,nurse
+1622,83,nurse
+1620,84,nurse
+1612,85,nurse
+1565,86,nurse
+1523,87,nurse
+1517,88,nurse
+1447,89,nurse
+1401,90,nurse
+1349,91,nurse
+1348,92,nurse
+1343,93,nurse
+1342,94,nurse
+1299,95,nurse
+1254,96,nurse
+1245,97,nurse
+1239,98,nurse
+1153,99,nurse
+1108,100,nurse
+1054,101,nurse
+1053,102,nurse
+1051,103,nurse
+1046,104,nurse
+972,105,nurse
+966,106,nurse
+964,107,nurse
+935,108,nurse
+927,109,nurse
+902,110,nurse
+901,111,nurse
+875,112,nurse
+863,113,nurse
+862,114,nurse
+861,115,nurse
+859,116,nurse
+857,117,nurse
+856,118,nurse
+855,119,nurse
+854,120,nurse
+853,121,nurse
+846,122,nurse
+845,123,nurse
+842,124,nurse
+838,125,nurse
+837,126,nurse
+833,127,nurse
+831,128,nurse
+792,129,nurse
+783,130,nurse
+766,131,nurse
+760,132,nurse
+759,133,nurse
+758,134,nurse
+755,135,nurse
+754,136,nurse
+747,137,nurse
+744,138,nurse
+743,139,nurse
+741,140,nurse
+738,141,nurse
+730,142,nurse
+729,143,nurse
+728,144,nurse
+721,145,nurse
+719,146,nurse
+718,147,nurse
+716,148,nurse
+715,149,nurse
+713,150,nurse
+702,151,nurse
+7,152,nurse
+678,153,nurse
+668,154,nurse
+652,155,nurse
+641,156,nurse
+635,157,nurse
+621,158,nurse
+620,159,nurse
+615,160,nurse
+6,161,nurse
+583,162,nurse
+580,163,nurse
+578,164,nurse
+564,165,nurse
+551,166,nurse
+550,167,nurse
+549,168,nurse
+544,169,nurse
+534,170,nurse
+533,171,nurse
+520,172,nurse
+518,173,nurse
+516,174,nurse
+515,175,nurse
+506,176,nurse
+505,177,nurse
+503,178,nurse
+500,179,nurse
+497,180,nurse
+490,181,nurse
+484,182,nurse
+475,183,nurse
+325,184,nurse
+321,185,nurse
+310,186,nurse
+300,187,nurse
+3,188,nurse
+285,189,nurse
+269,190,nurse
+266,191,nurse
+264,192,nurse
+261,193,nurse
+251,194,nurse
+244,195,nurse
+2392,196,nurse
+2391,197,nurse
+2386,198,nurse
+2384,199,nurse
+2377,200,nurse
+2358,201,nurse
+2351,202,nurse
+2349,203,nurse
+2347,204,nurse
+2338,205,nurse
+2337,206,nurse
+2277,207,nurse
+2257,208,nurse
+2256,209,nurse
+2254,210,nurse
+2252,211,nurse
+2250,212,nurse
+2246,213,nurse
+2242,214,nurse
+2241,215,nurse
+222,216,nurse
+2212,217,nurse
+221,218,nurse
+2204,219,nurse
+2202,220,nurse
+22,221,nurse
+2198,222,nurse
+2196,223,nurse
+2195,224,nurse
+2194,225,nurse
+2192,226,nurse
+2189,227,nurse
+2188,228,nurse
+2164,229,nurse
+216,230,nurse
+2143,231,nurse
+2124,232,nurse
+2120,233,nurse
+2119,234,nurse
+2117,235,nurse
+2116,236,nurse
+211,237,nurse
+2093,238,nurse
+2087,239,nurse
+2086,240,nurse
+2080,241,nurse
+208,242,nurse
+2077,243,nurse
+2072,244,nurse
+207,245,nurse
+2058,246,nurse
+2055,247,nurse
+2052,248,nurse
+2049,249,nurse
+2043,250,nurse
+2042,251,nurse
+2038,252,nurse
+2036,253,nurse
+2035,254,nurse
+203,255,nurse
+202,256,nurse
+2017,257,nurse
+2011,258,nurse
+2010,259,nurse
+201,260,nurse
+2009,261,nurse
+2008,262,nurse
+2007,263,nurse
+2006,264,nurse
+2005,265,nurse
+2004,266,nurse
+1998,267,nurse
+1996,268,nurse
+1989,269,nurse
+1983,270,nurse
+197,271,nurse
+1966,272,nurse
+1964,273,nurse
+1961,274,nurse
+196,275,nurse
+1952,276,nurse
+1950,277,nurse
+1947,278,nurse
+1944,279,nurse
+193,280,nurse
+1928,281,nurse
+1926,282,nurse
+1924,283,nurse
+1921,284,nurse
+191,285,nurse
+1904,286,nurse
+190,287,nurse
+1897,288,nurse
+1896,289,nurse
+1882,290,nurse
+1879,291,nurse
+1868,292,nurse
+1863,293,nurse
+1862,294,nurse
+1860,295,nurse
+186,296,nurse
+1859,297,nurse
+1855,298,nurse
+185,299,nurse
+1847,300,nurse
+1843,301,nurse
+1834,302,nurse
+1828,303,nurse
+182,304,nurse
+1812,305,nurse
+181,306,nurse
+180,307,nurse
+1795,308,nurse
+179,309,nurse
+1787,310,nurse
+178,311,nurse
+1777,312,nurse
+1776,313,nurse
+1775,314,nurse
+1773,315,nurse
+177,316,nurse
+176,317,nurse
+1735,318,nurse
+1730,319,nurse
+1718,320,nurse
+1717,321,nurse
+1709,322,nurse
+168,323,nurse
+167,324,nurse
+1661,325,nurse
+165,326,nurse
+1630,327,nurse
+163,328,nurse
+1629,329,nurse
+1627,330,nurse
+1617,331,nurse
+1615,332,nurse
+1614,333,nurse
+1613,334,nurse
+1610,335,nurse
+1606,336,nurse
+1605,337,nurse
+1604,338,nurse
+1603,339,nurse
+1602,340,nurse
+160,341,nurse
+1595,342,nurse
+1571,343,nurse
+1567,344,nurse
+1562,345,nurse
+1532,346,nurse
+1514,347,nurse
+1513,348,nurse
+1511,349,nurse
+1510,350,nurse
+1509,351,nurse
+1507,352,nurse
+1502,353,nurse
+1501,354,nurse
+1499,355,nurse
+1491,356,nurse
+1479,357,nurse
+1478,358,nurse
+1477,359,nurse
+1475,360,nurse
+1472,361,nurse
+1469,362,nurse
+1467,363,nurse
+1466,364,nurse
+1460,365,nurse
+1452,366,nurse
+1451,367,nurse
+1421,368,nurse
+142,369,nurse
+1414,370,nurse
+1413,371,nurse
+1412,372,nurse
+1411,373,nurse
+1407,374,nurse
+1400,375,nurse
+140,376,nurse
+1390,377,nurse
+1370,378,nurse
+1347,379,nurse
+1344,380,nurse
+1326,381,nurse
+1324,382,nurse
+1323,383,nurse
+1322,384,nurse
+1313,385,nurse
+1309,386,nurse
+1303,387,nurse
+1296,388,nurse
+1290,389,nurse
+1289,390,nurse
+1288,391,nurse
+1281,392,nurse
+1276,393,nurse
+1252,394,nurse
+1251,395,nurse
+1250,396,nurse
+1248,397,nurse
+1246,398,nurse
+1244,399,nurse
+1238,400,nurse
+1235,401,nurse
+1233,402,nurse
+1188,403,nurse
+1185,404,nurse
+1173,405,nurse
+1155,406,nurse
+1154,407,nurse
+1152,408,nurse
+1151,409,nurse
+1147,410,nurse
+1146,411,nurse
+1145,412,nurse
+1144,413,nurse
+1143,414,nurse
+1142,415,nurse
+1132,416,nurse
+1122,417,nurse
+1120,418,nurse
+1113,419,nurse
+1112,420,nurse
+1111,421,nurse
+1083,422,nurse
+1052,423,nurse
+1047,424,nurse
+1045,425,nurse
+1043,426,nurse
+1031,427,nurse
+72,1,nurse
+2316,2,nurse
+71,3,nurse
+139,4,nurse
+1369,5,nurse
+657,6,nurse
+2289,7,nurse
+83,8,nurse
+803,9,nurse
+67,10,nurse
+56,11,nurse
+52,12,nurse
+42,13,nurse
+41,14,nurse
+40,15,nurse
+38,16,nurse
+277,17,nurse
+2321,18,nurse
+2319,19,nurse
+2318,20,nurse
+2304,21,nurse
+2096,22,nurse
+156,23,nurse
+154,24,nurse
+1529,25,nurse
+147,26,nurse
+1442,27,nurse
+704,28,nurse
+592,29,nurse
+55,30,nurse
+2317,31,nurse
+2280,32,nurse
+144,33,nurse
+143,34,nurse
+136,35,nurse
+130,36,nurse
+113,37,nurse
+459,38,nurse
+1205,39,nurse
+616,40,nurse
+612,41,nurse
+29,42,nurse
+877,43,nurse
+661,44,nurse
+615,45,nurse
+560,46,nurse
+297,47,nurse
+294,48,nurse
+291,49,nurse
+290,50,nurse
+28,51,nurse
+2398,52,nurse
+2390,53,nurse
+2389,54,nurse
+2380,55,nurse
+2344,56,nurse
+2342,57,nurse
+2327,58,nurse
+2290,59,nurse
+2288,60,nurse
+2156,61,nurse
+1436,62,nurse
+1216,63,nurse
+1211,64,nurse
+1032,65,nurse
+989,66,nurse
+987,67,nurse
+986,68,nurse
+932,69,nurse
+916,70,nurse
+913,71,nurse
+910,72,nurse
+867,73,nurse
+788,74,nurse
+786,75,nurse
+785,76,nurse
+734,77,nurse
+714,78,nurse
+712,79,nurse
+695,80,nurse
+686,81,nurse
+665,82,nurse
+636,83,nurse
+627,84,nurse
+611,85,nurse
+588,86,nurse
+573,87,nurse
+572,88,nurse
+571,89,nurse
+565,90,nurse
+558,91,nurse
+499,92,nurse
+462,93,nurse
+458,94,nurse
+440,95,nurse
+434,96,nurse
+427,97,nurse
+415,98,nurse
+413,99,nurse
+408,100,nurse
+34,101,nurse
+317,102,nurse
+298,103,nurse
+293,104,nurse
+287,105,nurse
+2343,106,nurse
+2325,107,nurse
+2323,108,nurse
+2285,109,nurse
+2283,110,nurse
+2266,111,nurse
+2265,112,nurse
+2247,113,nurse
+2233,114,nurse
+2220,115,nurse
+2215,116,nurse
+215,117,nurse
+2145,118,nurse
+2144,119,nurse
+2125,120,nurse
+2056,121,nurse
+2036,122,nurse
+2020,123,nurse
+2,124,nurse
+1912,125,nurse
+1911,126,nurse
+1852,127,nurse
+1850,128,nurse
+1756,129,nurse
+1755,130,nurse
+1753,131,nurse
+1691,132,nurse
+1683,133,nurse
+1681,134,nurse
+1645,135,nurse
+1638,136,nurse
+1581,137,nurse
+1542,138,nurse
+1541,139,nurse
+1540,140,nurse
+1539,141,nurse
+1538,142,nurse
+1488,143,nurse
+1482,144,nurse
+1456,145,nurse
+1439,146,nurse
+1365,147,nurse
+1346,148,nurse
+1316,149,nurse
+1284,150,nurse
+1260,151,nurse
+1259,152,nurse
+1258,153,nurse
+1202,154,nurse
+1197,155,nurse
+1193,156,nurse
+1111,157,nurse
+1107,158,nurse
+1088,159,nurse
+1078,160,nurse
+1048,161,nurse
+1035,162,nurse
+1,163,nurse
+988,164,nurse
+981,165,nurse
+980,166,nurse
+976,167,nurse
+975,168,nurse
+950,169,nurse
+938,170,nurse
+933,171,nurse
+930,172,nurse
+928,173,nurse
+926,174,nurse
+925,175,nurse
+924,176,nurse
+923,177,nurse
+921,178,nurse
+920,179,nurse
+914,180,nurse
+912,181,nurse
+909,182,nurse
+908,183,nurse
+907,184,nurse
+906,185,nurse
+905,186,nurse
+903,187,nurse
+902,188,nurse
+900,189,nurse
+899,190,nurse
+895,191,nurse
+893,192,nurse
+891,193,nurse
+881,194,nurse
+868,195,nurse
+865,196,nurse
+862,197,nurse
+860,198,nurse
+837,199,nurse
+831,200,nurse
+830,201,nurse
+829,202,nurse
+820,203,nurse
+815,204,nurse
+784,205,nurse
+781,206,nurse
+780,207,nurse
+776,208,nurse
+771,209,nurse
+768,210,nurse
+764,211,nurse
+761,212,nurse
+76,213,nurse
+74,214,nurse
+733,215,nurse
+729,216,nurse
+709,217,nurse
+708,218,nurse
+705,219,nurse
+700,220,nurse
+697,221,nurse
+692,222,nurse
+690,223,nurse
+683,224,nurse
+680,225,nurse
+672,226,nurse
+662,227,nurse
+656,228,nurse
+653,229,nurse
+650,230,nurse
+646,231,nurse
+644,232,nurse
+637,233,nurse
+634,234,nurse
+633,235,nurse
+625,236,nurse
+621,237,nurse
+62,238,nurse
+618,239,nurse
+617,240,nurse
+610,241,nurse
+606,242,nurse
+602,243,nurse
+599,244,nurse
+598,245,nurse
+596,246,nurse
+594,247,nurse
+593,248,nurse
+586,249,nurse
+584,250,nurse
+578,251,nurse
+577,252,nurse
+570,253,nurse
+568,254,nurse
+556,255,nurse
+555,256,nurse
+548,257,nurse
+547,258,nurse
+546,259,nurse
+545,260,nurse
+543,261,nurse
+541,262,nurse
+539,263,nurse
+537,264,nurse
+530,265,nurse
+529,266,nurse
+528,267,nurse
+525,268,nurse
+521,269,nurse
+520,270,nurse
+502,271,nurse
+50,272,nurse
+497,273,nurse
+496,274,nurse
+494,275,nurse
+454,276,nurse
+453,277,nurse
+444,278,nurse
+443,279,nurse
+436,280,nurse
+432,281,nurse
+429,282,nurse
+426,283,nurse
+425,284,nurse
+423,285,nurse
+422,286,nurse
+420,287,nurse
+418,288,nurse
+410,289,nurse
+409,290,nurse
+400,291,nurse
+398,292,nurse
+395,293,nurse
+355,294,nurse
+354,295,nurse
+351,296,nurse
+35,297,nurse
+349,298,nurse
+346,299,nurse
+337,300,nurse
+336,301,nurse
+330,302,nurse
+33,303,nurse
+319,304,nurse
+314,305,nurse
+306,306,nurse
+299,307,nurse
+296,308,nurse
+289,309,nurse
+286,310,nurse
+27,311,nurse
+268,312,nurse
+265,313,nurse
+255,314,nurse
+253,315,nurse
+2395,316,nurse
+2393,317,nurse
+2385,318,nurse
+2378,319,nurse
+2377,320,nurse
+2374,321,nurse
+2369,322,nurse
+2367,323,nurse
+236,324,nurse
+235,325,nurse
+2345,326,nurse
+2340,327,nurse
+2337,328,nurse
+2336,329,nurse
+2334,330,nurse
+2331,331,nurse
+2329,332,nurse
+2328,333,nurse
+2324,334,nurse
+2315,335,nurse
+2314,336,nurse
+2312,337,nurse
+2310,338,nurse
+2308,339,nurse
+2306,340,nurse
+2305,341,nurse
+2302,342,nurse
+2301,343,nurse
+2300,344,nurse
+23,345,nurse
+2299,346,nurse
+2294,347,nurse
+2293,348,nurse
+2286,349,nurse
+2281,350,nurse
+2279,351,nurse
+2277,352,nurse
+2275,353,nurse
+2272,354,nurse
+2269,355,nurse
+2267,356,nurse
+2260,357,nurse
+2255,358,nurse
+2251,359,nurse
+2249,360,nurse
+2238,361,nurse
+2237,362,nurse
+2236,363,nurse
+2235,364,nurse
+2234,365,nurse
+2232,366,nurse
+2231,367,nurse
+2230,368,nurse
+2225,369,nurse
+2218,370,nurse
+2217,371,nurse
+2213,372,nurse
+2203,373,nurse
+2200,374,nurse
+2196,375,nurse
+2193,376,nurse
+219,377,nurse
+2184,378,nurse
+2182,379,nurse
+2174,380,nurse
+2172,381,nurse
+2163,382,nurse
+2158,383,nurse
+2155,384,nurse
+2154,385,nurse
+2147,386,nurse
+2139,387,nurse
+2138,388,nurse
+2129,389,nurse
+2120,390,nurse
+2117,391,nurse
+2116,392,nurse
+2113,393,nurse
+2093,394,nurse
+209,395,nurse
+2088,396,nurse
+2086,397,nurse
+2082,398,nurse
+2075,399,nurse
+2065,400,nurse
+2058,401,nurse
+2057,402,nurse
+2054,403,nurse
+2050,404,nurse
+2037,405,nurse
+2035,406,nurse
+2026,407,nurse
+2025,408,nurse
+2016,409,nurse
+2014,410,nurse
+2013,411,nurse
+2003,412,nurse
+1995,413,nurse
+1994,414,nurse
+1980,415,nurse
+1979,416,nurse
+1973,417,nurse
+1972,418,nurse
+1971,419,nurse
+1969,420,nurse
+1948,421,nurse
+1943,422,nurse
+1942,423,nurse
+1941,424,nurse
+1940,425,nurse
+1932,426,nurse
+1925,427,nurse
+1921,428,nurse
+1920,429,nurse
+1913,430,nurse
+1910,431,nurse
+1909,432,nurse
+1902,433,nurse
+19,434,nurse
+189,435,nurse
+1883,436,nurse
+1874,437,nurse
+1873,438,nurse
+1867,439,nurse
+186,440,nurse
+1857,441,nurse
+185,442,nurse
+1846,443,nurse
+1842,444,nurse
+1826,445,nurse
+1823,446,nurse
+1822,447,nurse
+1818,448,nurse
+1817,449,nurse
+1816,450,nurse
+1809,451,nurse
+1804,452,nurse
+1803,453,nurse
+1801,454,nurse
+1800,455,nurse
+1799,456,nurse
+1798,457,nurse
+1797,458,nurse
+1796,459,nurse
+1793,460,nurse
+1790,461,nurse
+1786,462,nurse
+1761,463,nurse
+1757,464,nurse
+1752,465,nurse
+1751,466,nurse
+1743,467,nurse
+1742,468,nurse
+1741,469,nurse
+1740,470,nurse
+1738,471,nurse
+1737,472,nurse
+1719,473,nurse
+1699,474,nurse
+1698,475,nurse
+1697,476,nurse
+1696,477,nurse
+1695,478,nurse
+1689,479,nurse
+1682,480,nurse
+1679,481,nurse
+1676,482,nurse
+1675,483,nurse
+1673,484,nurse
+1669,485,nurse
+1666,486,nurse
+1664,487,nurse
+1663,488,nurse
+1662,489,nurse
+166,490,nurse
+1658,491,nurse
+1657,492,nurse
+1633,493,nurse
+1614,494,nurse
+1592,495,nurse
+1556,496,nurse
+1533,497,nurse
+153,498,nurse
+152,499,nurse
+1518,500,nurse
+1502,501,nurse
+15,502,nurse
+1499,503,nurse
+1494,504,nurse
+1493,505,nurse
+1487,506,nurse
+1486,507,nurse
+1485,508,nurse
+1484,509,nurse
+1483,510,nurse
+1481,511,nurse
+148,512,nurse
+1462,513,nurse
+1461,514,nurse
+1459,515,nurse
+1451,516,nurse
+1448,517,nurse
+1444,518,nurse
+1443,519,nurse
+1441,520,nurse
+1437,521,nurse
+1435,522,nurse
+1432,523,nurse
+1424,524,nurse
+1420,525,nurse
+1419,526,nurse
+1405,527,nurse
+1404,528,nurse
+1403,529,nurse
+1392,530,nurse
+1379,531,nurse
+1378,532,nurse
+1366,533,nurse
+135,534,nurse
+1345,535,nurse
+134,536,nurse
+1337,537,nurse
+1336,538,nurse
+1317,539,nurse
+1301,540,nurse
+1288,541,nurse
+1283,542,nurse
+1282,543,nurse
+1276,544,nurse
+1275,545,nurse
+1273,546,nurse
+1267,547,nurse
+1264,548,nurse
+1263,549,nurse
+1262,550,nurse
+1261,551,nurse
+1253,552,nurse
+1248,553,nurse
+1246,554,nurse
+1244,555,nurse
+1236,556,nurse
+1234,557,nurse
+1224,558,nurse
+1220,559,nurse
+1219,560,nurse
+1215,561,nurse
+1214,562,nurse
+1203,563,nurse
+1201,564,nurse
+1200,565,nurse
+12,566,nurse
+1199,567,nurse
+1191,568,nurse
+1189,569,nurse
+1177,570,nurse
+1161,571,nurse
+1156,572,nurse
+1140,573,nurse
+114,574,nurse
+1134,575,nurse
+1132,576,nurse
+1131,577,nurse
+1130,578,nurse
+1129,579,nurse
+1126,580,nurse
+1121,581,nurse
+1120,582,nurse
+1115,583,nurse
+1110,584,nurse
+111,585,nurse
+1102,586,nurse
+1094,587,nurse
+1083,588,nurse
+1081,589,nurse
+1079,590,nurse
+1077,591,nurse
+1066,592,nurse
+1059,593,nurse
+1058,594,nurse
+1050,595,nurse
+1044,596,nurse
+1039,597,nurse
+1036,598,nurse
+1030,599,nurse
+1029,600,nurse
+1019,601,nurse
+1017,602,nurse
+1015,603,nurse
+1010,604,nurse
+0,605,nurse

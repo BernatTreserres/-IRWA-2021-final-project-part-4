@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+{% extends "base.html" %}
+{% block page_title %}{{ page_title }}{% endblock %}
+{% block content %}
+Selected tweet with id <strong>{{ id }}</strong>:
+<hr>
+<div class="pb-3">
+    <div class="doc-title">
+        <h2>{{ tweet.title }}</h2>
+        </a>
+    </div>
+    
+    <div class="doc-user">
+        Published at:  {{ tweet.doc_date }}
+        <p style="color:red;">by: @{{ tweet.user }}</p>
+    </div>
+    <div class="doc-desc">
+        {{ tweet.description }}
+    </div>
+    <br>
+    <div class="doc-desc2">
+        <a href="/">
+            <img src="{{ url_for('static', filename='like_logo.png') }}" width="30" height="30"/>
+        </a>
+        Likes : {{ tweet.likes }} &nbsp;&nbsp;
+        <a href="/">
+            <img src="{{ url_for('static', filename='rt_logo.png') }}" width="25" height="25"/>
+        </a>
+        RT : {{ tweet.rt }}
+
+    </div>
+
+    <br>
+
+    <div><a href="#" onclick="history.go(-1)">Go Back </a></div>
+    <div><a href="#" onclick="history.go(-2)"> Go Back To Search Engine </a></div>
+    <div><a href="/stats" >Stats</a></div>
+    <div><a href="/sentiment" >Sentiment</a></div>
+
+</div>
+
+{% endblock %}
+</div>
+</body>
+</html>

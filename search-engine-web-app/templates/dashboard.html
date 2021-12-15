@@ -1,0 +1,63 @@
+{% extends "base.html" %}
+{% block page_title %}{{ page_title }}{% endblock %}
+{% block content %}
+<!--
+    Examples of what to show in Dashboard:
+
+    - Ranking of visited documents (from results page)
+    - Visitor's preferred browsers
+    - Visitor's city (from IP)
+    - preferred queries ranking
+    - preferred terms
+    - etc.
+
+    -->
+
+<html lang="en">
+<style>
+#querytime {
+  opacity: 0.8;
+  width: 200px;
+  padding: 10px;
+  border: 2px grey;
+  background: #59af50;
+  color: black;
+  margin: 10;
+}
+body {
+    text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+}
+</style>
+<head>
+    <meta charset="UTF-8">
+    <title>Dashboard - IRWA Search Engine</title>
+</head>
+<body>
+<div>
+    <h5> Terms per Query</h5>
+    <img src="{{ url_for('static', filename='terms.png') }}" width="700" height="400"/>
+    <h5> Time Spent per Query</h5>   
+    <img src="{{ url_for('static', filename='times.png') }}" width="700" height="400"/> 
+    <h5> Number of Results</h5>   
+    <img src="{{ url_for('static', filename='n_results.png') }}" width="700" height="400"/> 
+    <h5> Queries</h5> 
+    {% for key in queries.keys() %}
+    ID = {{queries[key][4]}} ---> {{key}}
+    <br>
+    {% endfor %}
+</div>
+
+
+
+<br><br><br>
+<div><a href="#" onclick="history.go(-1)"> Go Back </a></div>
+<div><a href="#" onclick="history.go(-2)"> Go Back To Tweet Content </a></div>
+<div><a href="#" onclick="history.go(-3)"> Go Back To Query Search </a></div>
+<div><a href="#" onclick="history.go(-4)"> Go Back To Search Engine </a></div>
+
+</body>
+{% endblock %}
+
+</html>
+
