@@ -10,6 +10,7 @@ Once it is created, we need to install the following lybraries:
   - Httpagentparser
 
 When the environment is set, the app can be executed from a terminal in the root directory with the command
+    
     python web_app.py
     
 On the terminal, a localhost IP will be shown corresponding to the local server where the web application is being executed.
